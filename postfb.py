@@ -1,10 +1,10 @@
 import requests
 
 # Your Facebook API credentials
-app_id = '1371919580387036'
-app_secret = '85b8869f8fb0bf9aca210e20f1ef9806'
-page_id = '172085489325055'
-access_token = 'EAATfwOsZC1twBOyV5KWCx5UzKrBvPmTYMcTgcDwvUNNJSPiZBk5IUThyaJ0Ur7f78XI9iTzHmKy3ybrqXsw7ClTQ3oDrmkvZBEJgl2ZCdgBiprcz02JotwTquHRikuLUslECZBKxM9G8qSQ9ArHDGVJz6X1gF8SPDxNwki735sqKA2wDXgLs9mRAFODfZCOI0ygk09YcZBBOIrfjTaylIKw'
+app_id = 'id'
+app_secret = 'secret key'
+page_id = 'id'
+access_token = 'your access token'
 
 
 url = f'https://graph.facebook.com/v13.0/{page_id}/photos'
